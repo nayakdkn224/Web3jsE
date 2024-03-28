@@ -1,0 +1,10 @@
+1) What is Web3.js?
+Ans .  web3.js  is a collection of libaray which is use to interact with our local or remote Ethereum Node by using HTTP , IPC and WebSocket .
+it allows us to Decentralize communicate  ,it is peer to peer .
+
+.2) How is Web3 different from Web2?
+Ans:- 
+
+3) Demonstrate how to check the account balances with the help of
+Web3.js.
+Ans:- 
